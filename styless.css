@@ -1,0 +1,24 @@
+html body{
+    margin: 0%;
+}
+
+#logo {
+    width: 200px;
+    height: 150px;
+}
+
+.flex-container {
+   background-color: rgb(243, 108, 175); 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.1rem 4rem;
+}
+.card {
+    background-color: rgb(181, 221, 235);
+    width: 15rem;
+    height: 15rem;
+}
+.text-center {
+    text-align: center;
+}
